@@ -18,15 +18,23 @@ We are using the Glove (glove.6B.100d) dataset, you can download it from [here](
 Download glove.6B.zip from [https://nlp.stanford.edu/projects/glove/](https://nlp.stanford.edu/projects/glove/) unzip it.
 Move the 'glove.6B.100d' file to the project folder.
 
-1. Create a virtualenv and activate it 
-`python3 -m virtualenv env`
-`source env/bin/activate`
+2. Create a virtualenv and activate it 
+```
+python3 -m virtualenv env
+```
+```
+source env/bin/activate
+```
 
-1. Install the dependencies
-`pip install -r requirements.txt`
+3. Install the dependencies
+```
+pip install -r requirements.txt
+```
 
-1. Run the project
-`python manage.py runserver`
+4. Run the project
+```
+python manage.py runserver
+```
 
-1. Go to `localhost:8000` and have fun!
+5. Go to `localhost:8000` and have fun!
 
