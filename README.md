@@ -1,7 +1,7 @@
 # AnalogySolver
 ![GitHub](https://img.shields.io/github/license/kazifarhan199/AnalogySolver)
 
-Analogy solver provides a web app to solve analogies used NaturalLP(word embedings) to solve analogies.
+Analogy solver provides a web app to solve analogies used Natural Language Processing(word embedings) to solve analogies.
 
 Here we are using a glove pretrained model you can find more information anout it [here](https://nlp.stanford.edu/projects/glove/)
 
