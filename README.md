@@ -5,8 +5,8 @@ Analogy solver provides a web app to solve analogies used NaturalLP(word embedin
 
 Here we are using a glove pretrained model you can find more information anout it [here](https://nlp.stanford.edu/projects/glove/)
 
-![DesktopExample](./assets/example.png)
-![PhoneExample](./assets/phone_example.png)
+<img src="./assets/example.png" alt="phone DesktopExample" height="400"/> <img src="./assets/phone_example.png" alt="phone example" height="400"/>
+<img src="./assets/phone_example2.png" alt="phone example" width="400"/>
 
 # DataSet
 
