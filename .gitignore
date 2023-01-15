@@ -1,5 +1,5 @@
 # glove
-glove.6B.txt
+glove.6B.100d.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
